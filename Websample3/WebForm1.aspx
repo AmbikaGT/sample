@@ -11,6 +11,7 @@
     <div>
     <asp:Button ID="Btn"  runat="server" Text="Submit"/>
         <asp:Label ID="LblModified" runat="server" Text="Modified"></asp:Label>
+        <asp:Label id="LblChanges" runat="server" Text="Changes"></asp:Label>
     </div>
     </form>
 </body>

@@ -41,20 +41,11 @@ Partial Public Class WebForm1
     Protected WithEvents LblModified As Global.System.Web.UI.WebControls.Label
 
     '''<summary>
-    '''LblNew control.
+    '''LblChanges control.
     '''</summary>
     '''<remarks>
     '''Auto-generated field.
     '''To modify move field declaration from designer file to code-behind file.
     '''</remarks>
-    Protected WithEvents LblNew As Global.System.Web.UI.WebControls.Label
-
-    '''<summary>
-    '''Btn2 control.
-    '''</summary>
-    '''<remarks>
-    '''Auto-generated field.
-    '''To modify move field declaration from designer file to code-behind file.
-    '''</remarks>
-    Protected WithEvents Btn2 As Global.System.Web.UI.WebControls.Button
+    Protected WithEvents LblChanges As Global.System.Web.UI.WebControls.Label
 End Class
